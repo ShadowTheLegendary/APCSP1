@@ -6,7 +6,7 @@ Install python
 
 ### Clone the repositories ###
 ```bash
-git clone https://github.com/ShadowTheLegendary/apcsp1.git
+git clone https://github.com/ShadowTheLegendary/APCSP1.git
 git clone https://github.com/ShadowTheLegendary/karel-py.git
 
 cd apcsp1
