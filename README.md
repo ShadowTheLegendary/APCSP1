@@ -9,7 +9,7 @@ Install python
 git clone https://github.com/ShadowTheLegendary/APCSP1.git
 git clone https://github.com/ShadowTheLegendary/karel-py.git
 
-cd apcsp1
+cd APCSP1
 ````
 ### Activate a .venv ###
 
@@ -30,7 +30,7 @@ cd karel-py
 pip install maturin
 maturin develop --release
 cd ..
-cd apcsp1
+cd APCSP1
 ```
 ### Run ###
 Windows 11
